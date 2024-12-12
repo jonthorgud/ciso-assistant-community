@@ -626,6 +626,7 @@ class RequirementAssessmentReadSerializer(BaseModelSerializer):
     folder = FieldsRelatedField()
     assessable = serializers.BooleanField(source="requirement.assessable")
     requirement = RequirementNodeReadSerializer()
+
     class Meta:
         model = RequirementAssessment
         fields = "__all__"
