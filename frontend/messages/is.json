@@ -320,6 +320,7 @@
 	"awarenessText": "Hversu vel þekkt er þessi veikleiki fyrir þennan hóp ógnaraðila?",
 	"awarenessChoice1": "Óþekkt",
 	"awarenessChoice2": "Falið",
+	"awarenessChoice3": "Augljóst",
 	"applyMapping": "Beita kortlagningu",
 	"mappingInference": "Kortlagning ályktun",
 	"mappingInferenceTip": "Kortlagningartillaga er tiltæk fyrir þessa kröfu",
